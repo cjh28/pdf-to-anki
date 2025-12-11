@@ -17,15 +17,6 @@
 - 🎨 **交互式卡片** - Anki卡片支持点击选择，自动判断对错
 - 🌿 **绿色主题** - 护眼的绿色卡片主题
 
-## 📸 截图预览
-
-### 主界面
-![主界面](docs/images/main.png)
-
-### Anki卡片效果
-![卡片正面](docs/images/card_front.png)
-![卡片背面](docs/images/card_back.png)
-
 ## 🚀 快速开始
 
 ### 方式一：直接下载exe（推荐）
